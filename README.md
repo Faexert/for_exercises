@@ -8,7 +8,7 @@
 Run the following commands to bootstrap your environment:
     
     download and install Python 3.13
-    git clone https://github.com/...
+    git clone https://github.com/Faexert/for_exercises
     cd web_app
     
     for windows
