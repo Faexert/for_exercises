@@ -19,3 +19,7 @@ Run the following commands to bootstrap your environment:
 Run the app locally:
 
     py manage.py runserver
+
+Superuser
+Login: admin
+Password: Hermann_Hesse
