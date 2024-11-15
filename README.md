@@ -21,5 +21,6 @@ Run the app locally:
     py manage.py runserver
 
 Superuser
-Login: admin
-Password: Hermann_Hesse
+
+    Login: admin
+    Password: Hermann_Hesse
